@@ -8,9 +8,9 @@ Estamos aprendiendo a trabajar con **GIT** y para eso hemos creado este reposito
 ## Flujo de trabajo de GIT
 Para añadir un fichero a nuestro repositorio remoto de [GitHub](https://github.com/) tenemos que seguir los siguientes pasos
 ```
-`#0969DA` git add fichero
-`#0969DA` git commit -m "Comentario sobre el commit"
-`#0969DA` git push
+git add fichero
+git commit -m "Comentario sobre el commit"
+git push
 ```
 
 
